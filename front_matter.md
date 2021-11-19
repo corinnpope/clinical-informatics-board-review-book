@@ -8,18 +8,18 @@ Although the author and publisher have made every effort to ensure that the info
 We’re glad we can join you on your journey towards becoming a board certified clinical informatician. Our goal is to provide you with a concise presentation of the basic principles of clinical informatics in an easy to understand format. As you prepare for the exam, we hope you use this book in combination with your clinical experience as part of your toolkit. 
 We will cover the major topics in the examination content outline, though we may have reorganized some of it in the interest of flow and clarity. Each section will focus on a “core content” topic. We have also recommended some additional reading at the end of most sections for those who find a topic interesting and would like to dive deeper into the subject. To facilitate rapid assimilation of this material, as well as demonstrating hierarchical relationships between concepts, we will frequently use bulleted lists. The major sections of this book are as follows:
 
-•	Exam Details
-•	Clinical Informatics Overview
-•	The Health System
-•	Clinical Decision Making and Care Process Improvement
-•	Evidence Based Patient Care
-•	Workflows Analysis, Process Redesign, and Quality Improvement
-•	Health Information Technology Systems
-•	Human Factors Engineering
-•	Health Information Systems Applications
-•	Clinical Data Standards
-•	Information System Lifecycle
-•	Leadership and Managing Change
+- Exam Details
+- Clinical Informatics Overview
+- The Health System
+- Clinical Decision Making and Care Process Improvement
+- Evidence Based Patient Care
+- Workflows Analysis, Process Redesign, and Quality Improvement
+- Health Information Technology Systems
+- Human Factors Engineering
+- Health Information Systems Applications
+- Clinical Data Standards
+- Information System Lifecycle
+- Leadership and Managing Change
 
  
 ## Practice Questions & Additional Study Materials
