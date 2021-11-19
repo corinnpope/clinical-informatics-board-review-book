@@ -1,13 +1,19 @@
 # Clinical Informatics Board Review: Pass the Exam the First Time
 
+You can access the individual chapters by clicking on each of them individual in the file tree above.
+
 # This is a Work in Progress
 
 Here's the plan as it stands.
 
-- Take the original Word document and break it out into individual word doc files
-  - Take those word docs and convert them to markdown
+- Take the original Word document and break it out into individual unformatted markdown files
+  - Format into markdown
   - We may run into some issues with images - not sure how many of the originals I actually have anywhere - some may need re-creation or will just be screenshotted
 - Accept any PRs to update content
+
+# Style guide
+
+- Use header markdown for title sections. Rule of thumb - the number of numbers in the header is the number of pound symbols in the markdown tag (for ex. 2.3.2 would convert to `###`)
 
 # Background
 
