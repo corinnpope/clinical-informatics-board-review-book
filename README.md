@@ -25,3 +25,5 @@ We started on the initial version in 2013. Since then, we've decided to open sou
 # Contributing
 
 Want to help out? Get your feet wet with git plus get a few PRs under your belt? We'd love for you to help. Whether it's the smallest typo fix or adding an entire chapter, anything you would like to do to improve the book will be considered for inclusion. 
+
+Email me at clinfobook@corinnpope.com. Cheers!
